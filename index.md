@@ -8,8 +8,12 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 # BBHD Useful Links
 
-## Member Facebook Pages
-
-### Dash
+## Like Member Facebook Pages
 
 <div class="fb-like" data-href="https://facebook.com/readysetdash" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+
+| Business      | Are           | Facebook Buttons                    |
+| ------------- |:-------------:| -----------------------------------:|
+| Dash          | right-aligned | <div class="fb-like" data-href="https://facebook.com/readysetdash" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div> |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
