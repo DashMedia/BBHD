@@ -8,12 +8,12 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 # BBHD Useful Links
 
-## Like Member Facebook Pages
+## Connect with members on social media
+
+### Dash
 
 <div class="fb-like" data-href="https://facebook.com/readysetdash" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 
-| Business      | Are           | Facebook Buttons                    |
-| ------------- |:-------------:| -----------------------------------:|
-| Dash          | right-aligned | <div class="fb-like" data-href="https://facebook.com/readysetdash" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div> |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### The Salvation Army NT
+
+<div class="fb-like" data-href="https://facebook.com/salvationarmyNT" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
