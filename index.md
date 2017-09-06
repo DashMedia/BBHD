@@ -82,4 +82,4 @@ Welcome to Better Business Habits Darwin. Here are some links and resources that
 
 ## Add your Facebook page
 
-If you have a Facebook page that you would like featured in the list please email jon@dashmedia.com.au.
+If you have a Facebook page that you would like featured in the list please email [jon@dashmedia.com.au](mailto:jon@dashmedia.com.au).
